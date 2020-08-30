@@ -1,0 +1,2 @@
+Pantalla principal:
+	Debería tener una barra de menú que se arme de acuerdo a los permisos que tiene el usuario
